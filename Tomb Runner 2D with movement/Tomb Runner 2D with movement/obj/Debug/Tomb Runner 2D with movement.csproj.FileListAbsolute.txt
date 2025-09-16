@@ -1,0 +1,16 @@
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\bin\Debug\Tomb Runner 2D with movement.exe.config
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\bin\Debug\Tomb Runner 2D with movement.exe
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\bin\Debug\Tomb Runner 2D with movement.pdb
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.csproj.AssemblyReference.cache
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\MainWindow.g.cs
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\App.g.cs
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement_MarkupCompile.cache
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement_MarkupCompile.lref
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\MainWindow.baml
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.g.resources
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb_Runner_2D_with_movement.Properties.Resources.resources
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.csproj.GenerateResource.cache
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.csproj.CoreCompileInputs.cache
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.exe
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.pdb
+C:\Users\Rehan\Downloads\Tomb Runner 2D with movement\Tomb Runner 2D with movement\obj\Debug\Tomb Runner 2D with movement.exe.config
